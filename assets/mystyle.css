@@ -1,0 +1,69 @@
+body {
+  font-family: 'Helvetica';
+  font-weight: 300;
+  color: #333;
+  font-size: 19px;
+}
+h1 {
+  font-size: 50px;
+  color: #555;
+  font-weight: 650;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.authors {
+  color: #222;
+  font-size: 28px;
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.conference {
+  color: #555;
+  font-size: 26px;
+  font-weight: 600;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 40px;
+}
+.logoimg {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.container-fluid {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.container {
+  margin-top: 30px;
+}
+#footer {
+  margin-bottom: 100px;
+}
+.thumbs {
+  -webkit-box-shadow: 1px 1px 3px #999;
+  -moz-box-shadow: 1px 1px 3px #999;
+  box-shadow: 1px 1px 3px #999;
+  margin-bottom: 20px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: 900;
+  border-bottom: 1px solid #999;
+  margin-bottom: 20px;
+}
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
